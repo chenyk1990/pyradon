@@ -34,7 +34,7 @@ BibTeX:
 ## Install
 Using the latest version
 
-    pip install git+https://github.com/aaspip/pyseistr
+    pip install git+https://github.com/chenyk1990/pyradon
 
 -----------
 ## Examples
