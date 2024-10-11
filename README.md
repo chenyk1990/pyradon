@@ -34,12 +34,7 @@ BibTeX:
 ## Install
 Using the latest version
 
-    git clone https://github.com/chenyk1990/pyradon
-    cd pyradon
-    pip install -v -e .
-or using Pypi
-
-    pip install pyradon
+    pip install git+https://github.com/aaspip/pyseistr
 
 -----------
 ## Examples
